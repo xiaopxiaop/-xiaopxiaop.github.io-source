@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-6
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,7 +81,7 @@ deploy:
   repo: https://github.com/xiaopxiaop/xiaopxiaop.github.io.git
   branch: master
 
-avatar: /uploads/avatar.jpg
+#avatar: /uploads/avatar.jpg
 
 
 search:
